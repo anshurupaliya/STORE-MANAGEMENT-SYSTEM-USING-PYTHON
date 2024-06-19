@@ -1,0 +1,35 @@
+
+===================================================================================
+----------------------- ||||||| LJ BRANDED CLOTH STORE ||||||| --------------------
+===================================================================================
+
+
+
+NAME = NIIN
+CONTACT = 9898052549
+
+
+
+
+YOUR ITEMS : 
+
+SR = 1
+CATEGORY_ID = S1
+ITEM_CODE = S1_3
+NAME = PETER ENGLAND FORMAL WHITE
+QUANTITY = 1
+PRICE = 6000
+AMOUNT = 6000
+
+
+
+AMOUNT = 6000
+CGST 9% = 540.0
+SGST 9% = 540.0
+
+
+THE TOTAL AMOUNT TO BE PAID = 6000 + 540.0 + 540.0 = 7080.0
+
+
+
+-------- ||||||| tHaNk YoU fOr ShOpPiNg ||||||| ---------
